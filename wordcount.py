@@ -26,7 +26,6 @@ should return a dictionary with words as keys, and their counts as values.
 # Your name, plus anyone who helped you with this assignment
 # Give credit where credit is due.
 __author__ = """GregSpurgeon with help from Joseph(facilitator), Mike Boring
- and Daniel(instructor)
  """
 
 import sys
